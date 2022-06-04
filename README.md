@@ -11,5 +11,7 @@ We try to deployer voice controlled program by the same way as face detection in
 Unfortunately，two of our team members（3 guys total）are iPhone users，so we can just finish it with PC.  
 And all these control modes can complete the control of the trolley through UDP.  
 our video can be see in [video](https://jbox.sjtu.edu.cn/l/a1SBSi).  
-[video_clip]（test_success_clip.MP4）
+
+I'm sorry that you may can't see the video above.Now I have submitted it here.But it's too big to add in github,so I have to edit it(mainly GPS sport as we have to let it sport for a long time so that we can see the change of coordinates).The old link still provides original video without cutting. 
+[video_clip](https://github.com/lancg/Face-Detection-and-Human-Tracking-Robot/blob/0f6801a00d706ab8352d62e2c8982df95976f72b/test_success_clip.MP4)）
 Thank you for reading! 
