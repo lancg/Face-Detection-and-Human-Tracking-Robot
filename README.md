@@ -11,4 +11,5 @@ We try to deployer voice controlled program by the same way as face detection in
 Unfortunately，two of our team members（3 guys total）are iPhone users，so we can just finish it with PC.  
 And all these control modes can complete the control of the trolley through UDP.  
 our video can be see in [video](https://jbox.sjtu.edu.cn/l/a1SBSi).  
+[video_clip]（test_success_clip.MP4）
 Thank you for reading! 
